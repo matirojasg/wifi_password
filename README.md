@@ -1,1 +1,3 @@
-# wifi_password
+# Wifi password getter.
+
+Execution: python main.py 
